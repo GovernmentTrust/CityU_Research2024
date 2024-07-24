@@ -1,4 +1,4 @@
-# Government Trust Analysis Under the National Security Law in Hong Kong
+# Exploring the Impact of Symbolic Interactionism on Trust in Government in the Context of the National Security Law
 
 ## Description
 This repository contains the code and dataset used in the thesis titled "Exploring the Impact of Symbolic Interactionism on Trust in Government in the Context of the National Security Law" submitted for the MAASS Sociology Stream at the City University of Hong Kong. The research explores how individual interpretations and experiences under the National Security Law influence trust in the Hong Kong government. This interdisciplinary study employs mixed-methods including stepwise regression and structural equation modeling to analyze data collected from 108 participants.
